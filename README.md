@@ -2,7 +2,7 @@
 
 **Educational Remote Administration Tool (RAT)**
 
-**abdullaxowsRAT** serves as a conceptual framework demonstrating how modern Electron and Node.js applications integrate with native Windows APIs. It is designed **strictly as an academic Proof of Concept (PoC)** to assist incident responders, security researchers, and malware analysts in understanding endpoint observation techniques and Remote Administration Tool (RAT) architectures.
+**RATxows** serves as a conceptual framework demonstrating how modern Electron and Node.js applications integrate with native Windows APIs. It is designed **strictly as an academic Proof of Concept (PoC)** to assist incident responders, security researchers, and malware analysts in understanding endpoint observation techniques and Remote Administration Tool (RAT) architectures.
 
 > **LEGAL DISCLAIMER AND ACCEPTABLE USE POLICY**  
 > This software is provided "as-is" for **educational and defensive cybersecurity research purposes only**. It must only be used in controlled, isolated environments or on systems where you have explicit authorized consent from the owner.  
